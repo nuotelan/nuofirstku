@@ -1,0 +1,44 @@
+:root {
+    /* 主色调 */
+    --primary-color: #409eff;
+    --success-color: #67c23a;
+    --warning-color: #e6a23c;
+    --danger-color: #f56c6c;
+    --info-color: #909399;
+
+    /* 文字颜色 */
+    --text-primary: #303133;
+    --text-regular: #606266;
+    --text-secondary: #909399;
+    --text-placeholder: #c0c4cc;
+
+    /* 边框颜色 */
+    --border-color-base: #dcdfe6;
+    --border-color-light: #e4e7ed;
+    --border-color-lighter: #ebeef5;
+
+    /* 背景颜色 */
+    --background-color-base: #f5f7fa;
+    --background-color-light: #f8f9fa;
+
+    /* 尺寸 */
+    --header-height: 60px;
+    --sidebar-width: 200px;
+    --sidebar-collapse-width: 64px;
+
+    /* 阴影 */
+    --box-shadow-light: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+    --box-shadow-base: 0 2px 4px rgba(0, 0, 0, 0.12), 0 0 6px rgba(0, 0, 0, 0.04);
+
+    /* 边框圆角 */
+    --border-radius-base: 4px;
+    --border-radius-small: 2px;
+    --border-radius-round: 20px;
+
+    /* 字体 */
+    --font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+    --font-size-base: 14px;
+    --font-size-small: 13px;
+    --font-size-large: 16px;
+    --font-size-extra-large: 18px;
+}
